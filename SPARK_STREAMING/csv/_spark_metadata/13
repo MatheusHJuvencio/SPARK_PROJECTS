@@ -1,0 +1,3 @@
+v1
+{"path":"file:///home/matheus/Documents/SPARK_STREAMING/csv/part-00000-46a8eb03-eb43-42df-b67f-46d5c370d099-c000.csv","size":91,"isDir":false,"modificationTime":1675107763656,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/matheus/Documents/SPARK_STREAMING/csv/part-00001-aed930be-c3c1-4d9f-9621-95a28612dfe6-c000.csv","size":3,"isDir":false,"modificationTime":1675107763516,"blockReplication":1,"blockSize":33554432,"action":"add"}

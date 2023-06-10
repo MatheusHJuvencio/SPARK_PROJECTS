@@ -1,0 +1,5 @@
+v1
+{"path":"file:///home/matheus/Documents/SPARK_STREAMING/csv/part-00000-50b98b9a-61ec-4772-9357-135b8915dfec-c000.csv","size":138,"isDir":false,"modificationTime":1675107136864,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/matheus/Documents/SPARK_STREAMING/csv/part-00001-ad9115ff-e03e-4570-b21c-567c355d48f8-c000.csv","size":6,"isDir":false,"modificationTime":1675107136868,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/matheus/Documents/SPARK_STREAMING/csv/part-00002-a421a4a3-59a8-4b97-b589-10c1031a633a-c000.csv","size":15,"isDir":false,"modificationTime":1675107136860,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/matheus/Documents/SPARK_STREAMING/csv/part-00003-ea56e439-9f5e-49d5-8d83-85a428eec6ad-c000.csv","size":23,"isDir":false,"modificationTime":1675107136864,"blockReplication":1,"blockSize":33554432,"action":"add"}
