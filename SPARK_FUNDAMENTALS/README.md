@@ -1,7 +1,7 @@
 # SPARK_PROJECT
 
 ### Sobre o projeto:
-#### Análise exploratória de dados (EDA) em um bando de dados de emrpesas registradas no Brasil, utilizando Spark
+#### Análise exploratória de dados (EDA) em um banco de dados de empresas registradas no Brasil, utilizando Spark
 
 
 # **Matheus Henrique Juvencio**
