@@ -1,7 +1,7 @@
-# SPARK_STUDY_EXEMPLES
+# SPARK_PROJECTS
 
 ### Sobre o diretório:
-#### Repositório com códigos relacionado a estudos com Spark
+#### Repositório com códigos relacionado a projetos com Spark
 
 
 # **Matheus Henrique Juvencio**
