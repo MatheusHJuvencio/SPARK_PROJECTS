@@ -1,7 +1,7 @@
 # SPARK_PROJECT
 
 ### Sobre o projeto:
-#### O projeto visa  estar utilizando tecnicas de NLP juntamente com Spark Streaming, utilizando dados do antigo Twitter.
+#### O projeto visa  estar utilizando técnicas de NLP, como por exemplo a Word Cloud, juntamente com Spark Streaming, utilizando dados do antigo Twitter.
 
 
 
